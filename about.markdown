@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /about/
+title: projects
+permalink: /projects/
 ---
 
 Related projects I developed
