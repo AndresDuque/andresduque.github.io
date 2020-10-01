@@ -13,7 +13,7 @@ I am a guy who came as a exchange student back in 2014 to the helveltic country 
 
 Said that, that doesn't meaning I am not meesing around learnig new technologies and creating any dummy project.
 
-You will a small part of me here!
+You will find a small part of me here!
 
 
 Be welcome!
