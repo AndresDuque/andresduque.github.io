@@ -1,3 +1,3 @@
 # Andrés Duque
 
-Personal website made with jekyll.
+Andres Duque's personal website made with jekyll.

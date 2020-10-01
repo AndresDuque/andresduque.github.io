@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to my personal website!"
-date:   2020-02-07 14:03:57 +0100
+title:  "About me"
+date:   2020-09-30 02:10:57 +0100
 categories: jekyll update
 ---
 
