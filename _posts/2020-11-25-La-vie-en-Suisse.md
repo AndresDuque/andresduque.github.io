@@ -7,19 +7,19 @@ tags: [expat]
 
 Bonjour! Je m'appelle Andrés et Je suis ingenieur informatique. Je suis né à la Colombie et sans savoir comment je me trouve à la Suisse aujourd'hui.
 
-Pendant mes études en informatique, je voulais aller dans une autre pays pour meilleure mon anglais, pour vivre l'expérience d'une exchange et si possible d'apprendre une autre langue.
+Pendant mes études en informatique, je voulais aller dans une autre pays pour améliorer mon anglais, pour vivre l'expérience d'une exchange et si possible d'apprendre une autre langue.
 
-Je pense que le gène du voyages a été toujourse présent dans ma famille, on est d'origen colombien mains on est habité en Espagne plus de 15 ans. Aussi je pense que on a le fin à voyager pour mon nom de famille, je partage le même nom de familler que l'astronaut Pedro Duque! (Prochaine destin: La Lune!)
+Je pense que le gène du voyages a été toujours présent dans ma famille, on est d'origine colombien mais on est habité en Espagne plus de 15 ans. Aussi je pense que on a l'envie de voyager par mon nom de famille, je partage le même nom de familler que l'astronaut Pedro Duque! (Prochaine destin: La Lune!)
 
 ### D'où viens-tu, Andrés, et que fais-tu aujourd'hui?
 
-Je suis espagnol, mais d'origine colombien. Aujourd'hui je suis en train d'étudier nouveaux technologies pendant mon temps dans le chômage. J'ai travaillé pour une entreprise qui malheureusement a fermé son division du developement.
+Je suis espagnol, mais d'origine colombien. Aujourd'hui je suis en train d'étudier nouveaux technologies pendant mon temps dans le chômage. J'ai travaillé pour une entreprise qui malheureusement a fermé son division de développement
 
 ### Pourquoi as-tu choisi de t'expatrier en Suisse?
 
-En fait, Je ne cherchais pas vraiment à venir en Suisse. C'est drôle, je voulais aller à Bergen, en Norvège, mais j'été deuxième lieu en la liste d'attente, comme j'ai demandé plus d'une destin, le deuxième etait Suisse, et là j'ai me trouvé dans le premier lieu.
+En fait, Je ne cherchais pas vraiment à venir en Suisse. C'est drôle, je voulais aller à Bergen, en Norvège, mais j'été en deuxième lieu en la liste d'attente, comme j'ai demandé plus d'une destin, après c'était Suisse, et là j'ai me trouvé dans le premier lieu.
 
-J'avait 5 jours pour décidér si j'attends pour la deuxième annonce ou j'ai accepté comme destin Suisse.
+J'avait 5 jours pour décidér si je m'attendais pour la deuxième annonce ou j'ai accepté comme destin Suisse.
 
 Finalement, je suis encore ici!
 
@@ -32,7 +32,7 @@ Je, qui suis né à la Colombie, qu'habité plus de 10 ans en Espagne, plus pré
 ### Comment trouvez-vous le style de vie suisse?
 
 Très équilibré, et très organisé. C'est bien pour moi, je suis désastreux... j'ai appri à être plus organisé.
-J'habite à Montreux, c'est une petite ville du canton de Vaud dans la Suisse romande. Ici, la vie est très calme, à la difference de, par example de Zurich, je prefere ce type de tranquilité, si je veux faire quelque chose je me deplace à Lausanne par example.
+J'habite à Montreux, c'est une petite ville du canton de Vaud dans la Suisse romande. Ici, la vie est très calme, à la difference de, par example de Zurich, je préfère ce type de tranquilité, si je veux faire quelque chose je me déplace à Lausanne par example.
 
 
 
