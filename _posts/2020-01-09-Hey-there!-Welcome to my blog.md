@@ -1,5 +1,5 @@
 ---
-title:  "Hey there! Welcome to my blog"
+title:  "Hey there! Welcome to my blog."
 date:   2020-01-10 15:04:23
 categories: [welcome]
 tags: [welcome]
@@ -7,7 +7,7 @@ tags: [welcome]
 
 Hey there!
 
-My name is Andrés Duque and I created this websited by change. I wanted to learn about web development (and I still need to learn more). I am a kind of a guy which learns by doing, So, I said to myself "Why don't you create a blog? It's kind of the easiest thing I could do, and when it's done, it's done. Basically I just need to make some front-end structure, I need no database. That's already a huge plus." I mainly develop desktop applications or work in R&d with C++ and I never had the opportunity to spend time learning web development, now I have it, so I didn't have excuse to not get down to work!
+My name is Andrés Duque and I created this website by change. I wanted to learn about web development (and I still want to learn more). I am a kind of a guy which learns by doing, So, I said to myself "Why don't you create a blog? It's kind of the easiest thing I could do, and when it's done, it's done. Basically I just need to make some front-end structure, I need no database. That's already a huge plus." I mainly develop desktop applications or work in R&d with C++ as main programming language (sometimes using Python for mocking up some research).  I never had the opportunity to spend time learning web development, now I have it, so I didn't have excuse to not get down to work!
 
 As you can see, I was able to create this website. I hosted it on github pages and I was able to put it on a domain. I had no idea about hosting, any web development and deployment, so for me it's quite an achievement.
 
