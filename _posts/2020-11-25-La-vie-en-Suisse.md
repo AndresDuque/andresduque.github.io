@@ -38,29 +38,33 @@ J'habite à Montreux, c'est une petite ville du canton de Vaud dans la Suisse ro
 
 <div style="text-align:center">
   <h5>Trouvez quelques photos de mes sorties par Suisse</h5>
-  <p>Cliquez dans l'image</p>
 </div>
 
-<!-- The four columns -->
+
+<!-- The grid: four columns -->
 <div class="row">
   <div class="column">
-    <img src="/images/gallery/IMG-8532.jpg" alt="Nendaz" style="width:100%" onclick="myFunction(this);">
+    <img src="/images/gallery/IMG-8532.jpg" alt="Nendaz" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="/images/gallery/IMG-8877.jpg" alt="Garde de Bordon peak" style="width:100%" onclick="myFunction(this);">
+    <img src="/images/gallery/IMG-8877.jpg" alt="Garde de Bordon peak" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="/images/gallery/IMG-9876.jpg" alt="Hardergrat trail" style="width:100%" onclick="myFunction(this);">
+    <img src="/images/gallery/IMG-9876.jpg" alt="Hardergrat trail" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="/images/gallery/IMG-8675.jpg" alt="Saas-Fe by night" style="width:100%" onclick="myFunction(this);">
+    <img src="/images/gallery/IMG-8675.jpg" alt="Saas Fe at night" onclick="myFunction(this);">
   </div>
 </div>
 
+<!-- The expanding image container -->
 <div class="container">
+  <!-- Close the image -->
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+
+  <!-- Expanded image -->
   <img id="expandedImg" style="width:100%">
+
+  <!-- Image text -->
   <div id="imgtext"></div>
 </div>
-
-
