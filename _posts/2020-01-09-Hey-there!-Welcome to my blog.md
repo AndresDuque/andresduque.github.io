@@ -20,6 +20,6 @@ Some topics I will write about are:
   - Computer science: algorithmic problems, genetic programming, AI, and I will write about problem solving programming challenges.
   - Development: Here I would like to write about my development processes while learning a new technology, for example,my day to day creating an android app.
   - Outtings: I love going around the mountains (hiking, climbing and  vias ferratas). I actually did part of the route that Frodo followed to throw the ring into the volcano in The Lord of the Rings movies! But without any doubt the most rewarding hobby I have right now is snowboarding. I will write about the places I've visited, post some images, even videos if I am able to get good ones.
-  - Expat: As a foreigner I will, sometimes, write about particularities in Switzerland.
+  - Expat: As a foreigner I will, sometimes, write about particularities of living in Switzerland.
 
 I will, surely, add some more in the future. I think as an intro that was pretty much and I don't want to extend it more! Welcome!
