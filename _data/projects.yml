@@ -1,9 +1,34 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: Graph
+  gh_user: AndresDuque
+  repo: ShortestPathAlgorithmsGraph
+  img: static/assets/img/graph.png
+  desc: Graph implements the Dijkstra’s algorithm to find the shortest path given two nodes of a graph.
+
+- name: Healthician
+  gh_user: AndresDuque
+  repo: healthician
+  img: static/assets/img/healthician.png
+  desc: Patient management software offers a way to give statistics about patients’ data. Currently is an ongoing project being build in C++, Qt5 and SOCI as a back-end.
+
+- name: Photostory
+  gh_user: AndresDuque
+  repo: photostory
+  img: static/assets/img/photostory.png
+  desc: Photostory sorts yours photos per year and month or per location if GPS data is avalaible. Currently is an ongoing project being build in python3.
+
+- name: aduque.com
+  gh_user: AndresDuque
+  repo: andresduque.github.io
+  img: static/assets/img/aduque.png
+  desc: Andres Duque personal’s website made with HTML5, JS, CSS and Jekyll.
+
 - name: Inversion of Control
   gh_user: AndresDuque
   repo: IoC-pattern-in-C-
-  img: static/assets/img/ioc-pic.png
+  img: static/assets/img/ioc.png
   desc: The inversion control pattern implemented and explained in C++.
 
