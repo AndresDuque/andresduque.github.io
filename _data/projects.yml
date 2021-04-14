@@ -12,7 +12,7 @@
   gh_user: AndresDuque
   repo: healthician
   img: static/assets/img/healthician.png
-  desc: Patient management software offers a way to give statistics about patients’ data. Currently is an ongoing project being build in C++, Qt5 and SOCI as a back-end.
+  desc: Healthician is a patient management software that offers a way to give statistics about patients’ data. Currently is an ongoing project being build in C++, Qt5 and SOCI as a back-end.
 
 - name: Photostory
   gh_user: AndresDuque
